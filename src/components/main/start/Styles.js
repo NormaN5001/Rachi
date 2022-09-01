@@ -1,7 +1,6 @@
 import styled from 'styled-components';
 
 export const Start = styled.section`
-  border: solid;
   display: flex;
   justify-content: space-between;
 `

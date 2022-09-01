@@ -13,15 +13,21 @@ export default function Start(){
       <S.TitleBox>Como funciona</S.TitleBox>
       <S.Content>
         <div>
-          
+          <img src={UserImg} alt="Imagem do usuário"/>
+          <h3>Crie conexões</h3>
+          <p>Lorem ipsum dolor sit amet, consecteteu.</p>
         </div>
 
         <div>
-          
+          <img src={CheckImg} alt="Imagem de verificar"/>
+          <h3>100% gratuito</h3>
+          <p>Lorem ipsum dolor sit amet, consecteteu.</p>
         </div>
 
         <div>
-          
+          <img src={SmileImg} alt="Imagem de um rosto feliz"/>
+          <h3>Compartilhamento</h3>
+          <p>Lorem ipsum dolor sit amet, consecteteu.</p>
         </div>
       </S.Content>
     </S.Functionalities>

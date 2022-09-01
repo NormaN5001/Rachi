@@ -1,7 +1,6 @@
 import styled from 'styled-components';
 
 export const HeaderSection = styled.section`
-  border: solid;
   height: 80px;
   width: 100%;
 
