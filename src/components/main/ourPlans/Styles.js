@@ -2,6 +2,7 @@ import styled from "styled-components";
 
 export const PlansSection = styled.section`
   text-align: center;
+  margin-top: 100px;
 `;
 export const Title = styled.h2`
   font-family: "Sora";
